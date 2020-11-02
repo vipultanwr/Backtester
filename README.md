@@ -1,6 +1,8 @@
-# Backtesting
+# Backtester
 
 A simple pullback strategy in Nifty Index spot and its backtesting
+
+
 Vipul Tanwar
 
 
